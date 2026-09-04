@@ -1,0 +1,47 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Generated outputs
+generated_images/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Internal development notes
+README_FIX_NOTES.txt
+README_V4_UPDATES.txt
+README_V5_UPDATES.txt
+README_V6_UPDATES.txt
+README_V7_UPDATES.txt
+
+# Old/duplicate app
+app1.py

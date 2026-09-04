@@ -1,0 +1,9 @@
+streamlit==1.62.0
+groq==1.7.0
+tavily-python==0.8.0
+python-dotenv==1.2.3
+requests==2.34.2
+gradio-client
+flask
+flask-cors
+uvicorn==0.52.4
