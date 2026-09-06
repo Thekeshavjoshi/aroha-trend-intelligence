@@ -1057,6 +1057,154 @@ in the terminal running the Streamlit server.
 
 ---
 
+## 📊 Example Workflow / Output
+
+AROHA is designed to progressively transform a research query into structured intelligence and creative outputs.
+
+### 🔎 Example Research Query
+
+A user can enter a topic such as:
+
+```text
+Emerging trends in AI-powered consumer products
+```
+
+AROHA then processes the query through its intelligence pipeline.
+
+### 🔄 End-to-End Example
+
+```text
+User Query
+    ↓
+🔎 Live Web Research
+    ↓
+📡 Signal Extraction
+    ↓
+📈 Trend Detection
+    ↓
+💡 Opportunity Generation
+    ↓
+🎨 Creative Directions
+    ↓
+🖼️ Visual Prompt Generation
+    ↓
+✨ Optional AI Image Generation
+```
+
+### 📡 Research & Signals
+
+The research stage collects relevant information from live web sources.
+
+The signal analysis layer then identifies meaningful observations, recurring themes, emerging concepts, and supporting evidence.
+
+```text
+Web Sources
+    ↓
+Research Evidence
+    ↓
+Meaningful Signals
+```
+
+### 📈 Emerging Trends
+
+Related signals are analyzed together to identify broader patterns.
+
+```text
+Signal A ──┐
+Signal B ──┼──→ Emerging Trend
+Signal C ──┤
+Signal D ──┘
+```
+
+The resulting trends provide a higher-level view of what may be changing within the researched topic.
+
+### 💡 Opportunity Spaces
+
+Detected trends are used to generate potential opportunity spaces.
+
+```text
+Emerging Trend
+      ↓
+Opportunity Ideas
+      ↓
+Opportunity Evaluation
+      ↓
+Prioritized Opportunities
+```
+
+These opportunities can then be explored further through the creative layer.
+
+### 🎨 Creative Directions
+
+A selected opportunity can be transformed into creative directions and concepts.
+
+```text
+Opportunity
+     ↓
+Creative Direction
+     ↓
+Concept
+```
+
+### 🖼️ Visual Exploration
+
+Creative directions can be converted into detailed visual prompts and optionally passed to the FLUX-based image-generation pipeline.
+
+```text
+Creative Concept
+      ↓
+Visual Prompt
+      ↓
+FLUX
+      ↓
+AI-Generated Visual
+```
+
+### 🎯 Final Outcome
+
+The complete workflow allows AROHA to move from:
+
+> **Live Research → Evidence → Signals → Trends → Opportunities → Creative Concepts → Visual Possibilities**
+
+This progression helps transform **raw web information into structured intelligence and actionable creative exploration**.
+
+---
+
+## 🎯 Use Cases
+
+AROHA can be used across research, strategy, innovation, creative exploration, and trend discovery workflows.
+
+### 🔎 Market & Trend Research
+
+Discover emerging patterns, changing behaviors, and developments within a specific market or industry.
+
+### 💡 Opportunity Discovery
+
+Explore potential business, product, service, and innovation opportunities emerging from identified trends.
+
+### 🎨 Creative & Brand Research
+
+Use trend intelligence to generate creative directions, campaign concepts, visual ideas, and new creative possibilities.
+
+### 🚀 Product & Innovation Exploration
+
+Identify emerging needs, technologies, and market signals that can inspire new product or experience concepts.
+
+### 📊 Strategic Research
+
+Transform large amounts of live web information into structured signals and higher-level insights that can support strategic exploration.
+
+### 🧠 AI-Assisted Research
+
+Use LLM-powered analysis to accelerate the process of moving from **raw information → evidence → patterns → opportunities → ideas**.
+
+### 🌐 Cross-Domain Exploration
+
+Research topics across different industries and domains to discover connections between emerging signals and potential opportunities.
+
+> **AROHA is designed as an exploration and intelligence system—not a replacement for human judgment or final business decisions.**
+
+---
 
 
 
