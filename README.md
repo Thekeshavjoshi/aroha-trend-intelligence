@@ -1,21 +1,12 @@
-\# 🌐 AROHA — AI Trend Intelligence
+# 🌸 AROHA — AI Research & Opportunity Intelligence
 
+### From live research to emerging trends, opportunity spaces, and creative possibilities.
 
+**AROHA** is an AI-powered **research and trend intelligence system** that transforms live web information into structured signals, emerging trends, actionable opportunities, creative directions, and visual concepts.
 
-\### \*\*From live research to emerging trends, opportunity spaces, and creative possibilities.\*\*
+Instead of simply collecting information, AROHA helps users move from:
 
-
-
-\*\*AROHA\*\* is an AI-powered \*\*trend intelligence and creative research system\*\* that transforms live web research into structured signals, emerging patterns, actionable opportunities, and visual creative directions.
-
-
-
-Instead of simply collecting information, AROHA helps answer:
-
-
-
-> \*\*What is happening? → Why does it matter? → Where is the opportunity? → What could we create next?\*\*
-
+> **What is happening? → Why does it matter? → Where is the opportunity? → What could we create next?**
 
 
 \---
