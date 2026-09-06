@@ -1206,5 +1206,91 @@ Research topics across different industries and domains to discover connections 
 
 ---
 
+## 🖥️ Demo / Screenshots
+
+The following screenshots showcase the AROHA interface and its research intelligence workflow.
+
+### 🏠 AROHA Home
+
+The AROHA home interface provides an entry point to the research and trend intelligence workflow.
+
+![AROHA Home Page](assets/demo1.png)
+
+### 📡 Signal Intelligence
+
+AROHA analyzes research findings to extract meaningful signals, recurring themes, and supporting observations.
+
+![AROHA Signal Intelligence](assets/demo2.png)
+
+### 📈 Emerging Trends
+
+Related signals are analyzed to identify emerging patterns and trends within the researched topic.
+
+![AROHA Emerging Trends](assets/demo3.png)
+
+---
+
+## 🔮 Future Improvements
+
+AROHA is an evolving project, and several areas can be improved as the system develops further.
+
+* **📈 Improved Trend Detection** — strengthen trend identification by connecting more signals and improving trend relevance.
+* **💡 Better Opportunity Generation** — generate a broader and more relevant set of opportunity spaces from detected trends.
+* **🎯 Opportunity Prioritization** — improve opportunity scoring and ranking using stronger evaluation criteria.
+* **📡 Research Optimization** — reduce redundant research content while preserving important supporting evidence.
+* **🧠 Intelligence Quality** — improve the relevance, consistency, and depth of LLM-generated signals, trends, and opportunities.
+* **🖼️ Visual Intelligence** — improve the consistency and relevance of generated visual concepts and AI images.
+* **⚡ Performance Optimization** — optimize processing time, API usage, and LLM token consumption.
+* **🌐 Broader Research Sources** — explore additional research sources and data integrations.
+* **🤖 Advanced Agentic Workflows** — introduce more autonomous research and reasoning capabilities.
+* **📊 Richer Visual Analytics** — expand trend and opportunity visualization with more interactive representations.
+
+> AROHA's future direction is focused on becoming a more **accurate, efficient, autonomous, and visually intelligent research-to-opportunity system**.
+
+---
+
+## 🏆 Project Highlights
+
+* 🔎 **Live AI-Powered Research** — uses Tavily to gather current web information and transform it into structured research evidence.
+* 🧠 **Multi-Stage Intelligence Pipeline** — moves from research and signals to trends, opportunities, creative directions, and visual concepts.
+* 📡 **Signal & Trend Intelligence** — analyzes relationships between research signals to identify emerging patterns and trends.
+* 💡 **Opportunity Discovery** — converts emerging trends into actionable opportunity spaces and evaluates them for prioritization.
+* 🎨 **Research-to-Creativity Workflow** — connects analytical insights with creative direction generation.
+* 🖼️ **Generative Visual Intelligence** — transforms creative concepts into detailed visual prompts with optional FLUX-based image generation.
+* 🤖 **LLM-Powered Analysis** — uses Groq for intelligent analysis and generation across multiple stages of the pipeline.
+* 🏗️ **Modular Architecture** — separates research, analysis, LLM, and visualization components for easier development and extension.
+* ⚡ **End-to-End AI Application** — combines web research, LLM reasoning, trend intelligence, opportunity discovery, and generative AI in a single system.
+* 🚀 **Built for Exploration** — designed to help users move from **“What is happening?”** to **“What could we create next?”**
+
+---
+
+## 📌 Repository
+
+The complete source code, project documentation, and implementation are available on GitHub.
+
+👉 **GitHub Repository:**
+https://github.com/Thekeshavjoshi/aroha-trend-intelligence
+
+If you find the project interesting, feel free to ⭐ the repository.
+
+---
+
+## 👨‍💻 Author
+
+**Keshav Joshi**
+AI/ML Engineer | Generative AI | Agentic AI | LLM Applications
+
+I build AI-powered applications focused on **machine learning, generative AI, agentic systems, RAG, LLM applications, and intelligent research workflows**.
+
+### 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [Keshav Joshi]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/keshav-joshi-170b12366/))
+* 🐙 **GitHub:** [Thekeshavjoshi](https://github.com/Thekeshavjoshi)
+* 📧 **Email:** joshikeshav9977@gmail.com
+
+---
+
+⭐ If you found AROHA interesting, consider starring the repository.
+
 
 
